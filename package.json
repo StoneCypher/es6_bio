@@ -1,0 +1,25 @@
+{
+  "name": "es6_bio",
+  "version": "1.0.0",
+  "description": "Biotech routines as an es6 module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StoneCypher/es6_bio.git"
+  },
+  "keywords": [
+    "es6",
+    "bio",
+    "fasta",
+    "sequence"
+  ],
+  "author": "John Haugeland <stonecypher@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/StoneCypher/es6_bio/issues"
+  },
+  "homepage": "https://github.com/StoneCypher/es6_bio#readme"
+}
